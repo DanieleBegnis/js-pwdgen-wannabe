@@ -15,6 +15,7 @@ const favouriteColor = prompt('Scrivi il tuo colore preferito')
 const number = 23
 
 const secondNumber = prompt('Scrivi un numero')
+//trasforma da stringa in numero
 const secondNumberAsNumber = parseInt(secondNumber);
 const numberSum = number + secondNumberAsNumber
 
